@@ -1,7 +1,7 @@
 # Texhnolyze
 Texhnolyze es un sistema de gestión de inventario, despliegue y atención de averías diseñado específicamente para empresas de telecomunicaciones. Este proyecto está desarrollado en Spring y Java, ofreciendo una solución robusta y escalable para la gestión eficiente de los sitios y equipos de telecomunicaciones, así como para la coordinación de tareas de despliegue y mantenimiento.
 
-**For English Speakers:** This readme is in Spanish. If you want to read it in English, [click here to continue]().
+**For English Speakers:** This readme is in Spanish. If you want to read it in English, [click here to continue](README%20(EN).md).
 
 
 ## Características principales
